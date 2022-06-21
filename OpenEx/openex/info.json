@@ -1,0 +1,17 @@
+{
+    "keyboard_name": "openex",
+    "url": "",
+    "maintainer": "qmk",
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                { "label": "K00 (B5,B4)", "x": 0, "y": 0 },
+                { "label": "K01 (B5,E6)", "x": 1, "y": 0 },
+                { "label": "K02 (B5,D7)", "x": 2, "y": 0 },
+                { "label": "K03 (B5,C6)", "x": 3, "y": 0 }
+            ]
+        }
+    }
+    ,"meta": "https://noroadsleft.github.io/kbf_qmk_converter/"
+}
+
