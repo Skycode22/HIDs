@@ -5,3 +5,6 @@ This repo is for the HID projects I have been working on and are making public f
 replicate, innovate, and otherwise utilize to thier liking. If you make any new design changes/ innovations
 I would love to see them and potentially add them to the repository!
 Feel free to message me with any questions or if you have any suggestions to make things better overall!
+
+Notable Projects Currently:
+https://github.com/Skycode22/HIDs/tree/main/TheOpenPursuit
