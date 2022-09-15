@@ -1,0 +1,18 @@
+OpenOT is an ortholinear keyboard with a trackball integrated to the right side (design could be mirrored for left handed users, etc.)
+
+The trackball mount used is called OpenMount and can be used for other trackball designs as well.
+
+The OpenMount uses 10mmx4mmx5mm roller bearings, I found the larger size to impact smoothness and longevity in a positive way.
+
+The encoder wheel is a unique orientation that is embedded into the case and traackball and requires a bit of technical knowhow to get it right.
+
+The encoder wheel also needs a "center axle" that goes through and also connects inside the encoder wheel; personally I have been using 1.5mm steel baling 
+wire that I cut and straighten to the right length, and then flattening out one end so that it "keys" into the encoder.
+
+All the components I printed out on an ender 3, although I want to find a place that can print the case out in one piece because it is require to print it in two pieces on the ender 3
+
+Required components:
+https://www.amazon.com/dp/B07HCGLG3Z?psc=1&ref=ppx_yo2ov_dt_b_product_details (rotary encoder)
+https://github.com/Bastardkb/charybdis-pmw-3360-sensor-pcb ( components for sensor found here, full credit to bastardkb for the sensor breakout design and all the hard work he did in developing his charybdis project)
+https://www.amazon.com/gp/product/B00ZVF8OHK/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 (Roller bearings)
+https://www.amazon.com/gp/product/B086MC31JT/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 (m3 and m5 screws, feel free to get your screws anywhere, the link is just an example)
