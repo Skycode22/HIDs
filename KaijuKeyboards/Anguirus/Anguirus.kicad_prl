@@ -2,7 +2,7 @@
   "board": {
     "active_layer": 0,
     "active_layer_preset": "",
-    "auto_track_width": true,
+    "auto_track_width": false,
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -14,17 +14,17 @@
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
-      "dimensions": false,
+      "dimensions": true,
       "footprints": true,
-      "graphics": false,
-      "keepouts": false,
+      "graphics": true,
+      "keepouts": true,
       "lockedItems": true,
-      "otherItems": false,
+      "otherItems": true,
       "pads": true,
-      "text": false,
+      "text": true,
       "tracks": true,
-      "vias": false,
-      "zones": false
+      "vias": true,
+      "zones": true
     },
     "visible_items": [
       0,
@@ -36,7 +36,6 @@
       8,
       9,
       10,
-      12,
       13,
       14,
       15,
@@ -65,7 +64,7 @@
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "gigan rev2.kicad_prl",
+    "filename": "Anguirus.kicad_prl",
     "version": 3
   },
   "project": {
