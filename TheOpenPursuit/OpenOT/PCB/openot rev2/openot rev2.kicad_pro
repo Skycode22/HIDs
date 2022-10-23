@@ -382,7 +382,7 @@
       "idf": "",
       "netlist": "./",
       "specctra_dsn": "",
-      "step": "pmw3360.step",
+      "step": "../../../../../openot plate.STEP",
       "vmrl": "",
       "vrml": ""
     },
