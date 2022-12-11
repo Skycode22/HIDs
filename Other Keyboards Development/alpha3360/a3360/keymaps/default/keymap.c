@@ -38,3 +38,13 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
 };
 
+bool encoder_update_user(uint8_t index, bool clockwise) {
+    if (index == 0) { /* First encoder */
+        if (clockwise) {
+            tap_code_delay(KC_WH_U, 10);
+        } else {
+            tap_code_delay(KC_WH_D, 10);
+        }
+    }
+    return false;
+}
