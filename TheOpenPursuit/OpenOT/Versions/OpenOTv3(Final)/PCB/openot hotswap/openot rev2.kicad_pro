@@ -382,7 +382,7 @@
       "idf": "",
       "netlist": "./",
       "specctra_dsn": "",
-      "step": "../../../../../openot plate.STEP",
+      "step": "../../3D/openot pcb.STEP",
       "vmrl": "",
       "vrml": ""
     },
