@@ -34,8 +34,8 @@
 #define PMW3360_CS_PIN B6
 #define POINTING_DEVICE_INVERT_Y
 
-#define ENCODERS_PAD_A { D2 }
-#define ENCODERS_PAD_B { D3 }
+#define ENCODERS_PAD_A { C6 }
+#define ENCODERS_PAD_B { D7 }
 #define ENCODER_RESOLUTION 4
 
 
