@@ -18,6 +18,8 @@ RGBLIGHT_ENABLE = no        # Enable keyboard RGB underglow
 BLUETOOTH_ENABLE = no       # Enable Bluetooth
 AUDIO_ENABLE = no           # Audio output
 ENCODER_ENABLE = yes
+VIA_ENABLE = yes
+LTO_ENABLE = yes
 
 # Add trackball support
 POINTING_DEVICE_ENABLE = yes
