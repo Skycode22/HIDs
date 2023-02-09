@@ -9,4 +9,5 @@ Feel free to message me with any questions or if you have any suggestions to mak
 Notable Projects Currently:
 https://github.com/Skycode22/HIDs/tree/main/TheOpenPursuit
 ![7db3hkyhcsl91](https://user-images.githubusercontent.com/97566685/190521196-0bf4ba36-8c6a-49fb-9d13-47eca6dc2666.jpg)
+![alt text](https://github.com/Skycode22/HIDs/blob/main/KaijuKeyboards(x3%20finalized)/Mothra(Final)/Pics/kicad1.PNG)
 ![layout](https://user-images.githubusercontent.com/97566685/190521313-acab4869-4a3c-4f27-848c-7a831261166e.PNG)
