@@ -161,7 +161,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "keyboard.step",
+      "step": "../3d files/keyboard.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
