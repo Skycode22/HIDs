@@ -160,7 +160,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "fr4 plate.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
