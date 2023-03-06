@@ -22,8 +22,8 @@
 #define VENDOR_ID       0xFEED
 #define PRODUCT_ID      0x0000
 #define DEVICE_VER      0x0001
-#define MANUFACTURER    %MANUFACTURER%
-#define PRODUCT         
+#define MANUFACTURER    my65
+#define PRODUCT         my65
 
 /* key matrix size */
 #define MATRIX_ROWS 6
