@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "s-ol")(type "KiCad")(uri "C:/Users/Workbench/Documents/kicad-lib/s-ol.pretty")(options "")(descr ""))
+)
