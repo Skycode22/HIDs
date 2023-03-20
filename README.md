@@ -7,6 +7,7 @@ I would love to see them and potentially add them to the repository!
 Feel free to message me with any questions or if you have any suggestions to make things better overall!
 
 Notable Projects Currently:
+https://github.com/Skycode22/HIDs/blob/main/C64.pi/pictures/fusion360%20home%20view.png
 https://github.com/Skycode22/HIDs/tree/main/TheOpenPursuit
 ![7db3hkyhcsl91](https://user-images.githubusercontent.com/97566685/190521196-0bf4ba36-8c6a-49fb-9d13-47eca6dc2666.jpg)
 ![alt text](https://github.com/Skycode22/HIDs/blob/main/KaijuKeyboards(x3%20finalized)/Mothra(Final)/Pics/kicad1.PNG)
