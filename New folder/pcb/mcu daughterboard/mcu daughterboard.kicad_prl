@@ -38,7 +38,6 @@
       8,
       9,
       10,
-      11,
       12,
       13,
       14,
@@ -68,7 +67,7 @@
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "keyboard.kicad_prl",
+    "filename": "mcu daughterboard.kicad_prl",
     "version": 3
   },
   "project": {
