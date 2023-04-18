@@ -7,6 +7,7 @@ I would love to see them and potentially add them to the repository!
 Feel free to message me with any questions or if you have any suggestions to make things better overall!
 
 Notable Projects Currently:
+![alt text](https://github.com/Skycode22/HIDs/blob/main/TrashTruck/V1/Pics%20and%20Video/animated%20render.mp4)
 ![alt text](https://github.com/Skycode22/HIDs/blob/main/TrashTruck/V1/Pics%20and%20Video/render.png)
 ![alt text](https://github.com/Skycode22/HIDs/blob/main/C64.pi/pictures/fusion360%20home%20view.png)
 https://github.com/Skycode22/HIDs/tree/main/TheOpenPursuit
