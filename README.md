@@ -1,5 +1,5 @@
 # HIDs
-DISCLAIMER:All projects not marked with "[FINAL]" are in a prototype stage, they may be in working order but require additional
+# DISCLAIMER:All projects not marked with "[FINAL]" are in a prototype stage, they may be in working order but require additional
 editing and fine-tuning.
 HID (Human Interface Device) projects; Keyboards, trackballs, controllers of all sorts.
 
