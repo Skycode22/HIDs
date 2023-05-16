@@ -11,7 +11,6 @@ Feel free to message me with any questions or if you have any suggestions to mak
 Notable Projects Currently:
 ![alt text](https://github.com/Skycode22/HIDs/blob/main/TrashTruck/V1/Pics%20and%20Video/render.png)
 ![alt text](https://github.com/Skycode22/HIDs/blob/main/C64.pi/pictures/fusion360%20home%20view.png)
-https://github.com/Skycode22/HIDs/tree/main/TheOpenPursuit
 ![7db3hkyhcsl91](https://user-images.githubusercontent.com/97566685/190521196-0bf4ba36-8c6a-49fb-9d13-47eca6dc2666.jpg)
 ![alt text](https://github.com/Skycode22/HIDs/blob/main/KaijuKeyboards(x3%20finalized)/Mothra(Final)/Pics/kicad1.PNG)
 ![alt text](https://github.com/Skycode22/HIDs/blob/main/KaijuKeyboards(x3%20finalized)/Gigan(Final)/Pics/Capture.PNG)
