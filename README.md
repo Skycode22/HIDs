@@ -1,6 +1,5 @@
 # HIDs
-# DISCLAIMER:All projects not marked with "[FINAL]" are in a prototype stage, they may be in working order but require additional
-# editing and fine-tuning.
+# DISCLAIMER:All projects not marked with "[FINAL]" are in a prototype stage, they may be in working order but require additional editing and fine-tuning.
 HID (Human Interface Device) projects; Keyboards, trackballs, controllers of all sorts.
 
 This repo is for the HID projects I have been working on and are making public for anyone to use,
