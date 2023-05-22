@@ -215,7 +215,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "switchplate.step",
+      "step": "../../3D/switchplate.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
