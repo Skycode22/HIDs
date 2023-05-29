@@ -8,11 +8,16 @@ I would love to see them and potentially add them to the repository!
 Feel free to message me with any questions or if you have any suggestions to make things better overall!
 
 Notable Projects Currently:
-![alt text](https://github.com/Skycode22/HIDs/blob/main/TrashTruck/V2/Pictures%20and%20videos/Screenshot%202023-05-21%20230919.png)
-![alt text](https://github.com/Skycode22/HIDs/blob/main/TrashTruck/V1%5BFinal%5D/Pics%20and%20Video/render.png)
-![alt_text](https://github.com/Skycode22/HIDs/blob/main/My75/My75%20Rev1/pictures/fusion%20360%20home%20view.png)
+![alt text](https://github.com/Skycode22/HIDs/blob/main/HID%20repo%20front%20page%20pictures/MY75.png)
+![alt text](https://github.com/Skycode22/HIDs/blob/main/HID%20repo%20front%20page%20pictures/MY75_shell.png)
+![alt text](https://github.com/Skycode22/HIDs/blob/main/HID%20repo%20front%20page%20pictures/TrashTruck.png)
+![alt text](https://github.com/Skycode22/HIDs/blob/main/HID%20repo%20front%20page%20pictures/TrashTruck_shell.png)
+![alt text](https://github.com/Skycode22/HIDs/blob/main/HID%20repo%20front%20page%20pictures/OpenOt.PNG)
+![alt text](https://github.com/Skycode22/HIDs/blob/main/HID%20repo%20front%20page%20pictures/OpenOt_shell.PNG)
+![alt text](https://github.com/Skycode22/HIDs/blob/main/HID%20repo%20front%20page%20pictures/Anguirus.png)
+![slt text](https://github.com/Skycode22/HIDs/blob/main/HID%20repo%20front%20page%20pictures/Anguirus_shell.png)
+![alt text](https://github.com/Skycode22/HIDs/blob/main/HID%20repo%20front%20page%20pictures/Gigan.PNG)
+![alt text](https://github.com/Skycode22/HIDs/blob/main/HID%20repo%20front%20page%20pictures/Gigan_mount.PNG)
+![alt text](https://github.com/Skycode22/HIDs/blob/main/HID%20repo%20front%20page%20pictures/Mothra.png)
 ![alt text](https://github.com/Skycode22/HIDs/blob/main/C64.pi/pictures/fusion360%20home%20view.png)
-![7db3hkyhcsl91](https://user-images.githubusercontent.com/97566685/190521196-0bf4ba36-8c6a-49fb-9d13-47eca6dc2666.jpg)
-![alt text](https://github.com/Skycode22/HIDs/blob/main/KaijuKeyboards(x3%20finalized)/Mothra(Final)/Pics/kicad1.PNG)
-![alt text](https://github.com/Skycode22/HIDs/blob/main/KaijuKeyboards(x3%20finalized)/Gigan(Final)/Pics/Capture.PNG)
-![layout](https://user-images.githubusercontent.com/97566685/190521313-acab4869-4a3c-4f27-848c-7a831261166e.PNG)
+
