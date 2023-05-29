@@ -8,16 +8,29 @@ I would love to see them and potentially add them to the repository!
 Feel free to message me with any questions or if you have any suggestions to make things better overall!
 
 Notable Projects Currently:
+MY75
 ![alt text](https://github.com/Skycode22/HIDs/blob/main/HID%20repo%20front%20page%20pictures/MY75.png)
 ![alt text](https://github.com/Skycode22/HIDs/blob/main/HID%20repo%20front%20page%20pictures/MY75_shell.png)
+
+TrashTruck
 ![alt text](https://github.com/Skycode22/HIDs/blob/main/HID%20repo%20front%20page%20pictures/TrashTruck.png)
 ![alt text](https://github.com/Skycode22/HIDs/blob/main/HID%20repo%20front%20page%20pictures/TrashTruck_shell.png)
+
+OpenOt
 ![alt text](https://github.com/Skycode22/HIDs/blob/main/HID%20repo%20front%20page%20pictures/OpenOt.PNG)
 ![alt text](https://github.com/Skycode22/HIDs/blob/main/HID%20repo%20front%20page%20pictures/OpenOt_shell.PNG)
+
+Anguirus
 ![alt text](https://github.com/Skycode22/HIDs/blob/main/HID%20repo%20front%20page%20pictures/Anguirus.png)
 ![slt text](https://github.com/Skycode22/HIDs/blob/main/HID%20repo%20front%20page%20pictures/Anguirus_shell.png)
+
+Gigan
 ![alt text](https://github.com/Skycode22/HIDs/blob/main/HID%20repo%20front%20page%20pictures/Gigan.PNG)
 ![alt text](https://github.com/Skycode22/HIDs/blob/main/HID%20repo%20front%20page%20pictures/Gigan_mount.PNG)
+
+Mothra
 ![alt text](https://github.com/Skycode22/HIDs/blob/main/HID%20repo%20front%20page%20pictures/Mothra.png)
+
+C64.pi
 ![alt text](https://github.com/Skycode22/HIDs/blob/main/C64.pi/pictures/fusion360%20home%20view.png)
 
