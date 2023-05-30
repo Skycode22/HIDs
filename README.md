@@ -9,7 +9,7 @@ Feel free to message me with any questions or if you have any suggestions to mak
 
 Notable Projects Currently:
 
-MY75
+# MY75
 ![alt text](https://github.com/Skycode22/HIDs/blob/main/HID%20repo%20front%20page%20pictures/MY75.png)
 ![alt text](https://github.com/Skycode22/HIDs/blob/main/HID%20repo%20front%20page%20pictures/MY75_shell.png)
 
