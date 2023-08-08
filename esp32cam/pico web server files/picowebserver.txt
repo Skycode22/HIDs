@@ -1,0 +1,105 @@
+import network
+import socket
+import ntptime
+from machine import RTC
+
+ssid = 'touch_2_die'
+password = 'Shast@098123'
+
+wlan = network.WLAN(network.STA_IF)
+wlan.active(True)
+wlan.connect(ssid, password)
+
+rtc = RTC()
+
+html = """<!DOCTYPE html>
+<html>
+<head>
+    <title>HomeScreen</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            font-family: 'Courier New', monospace;
+            background-color: #f0f0f0;
+        }
+        h1 {
+            font-family: 'Times New Roman', serif;
+            color: #000c0c;
+        }
+        .section {
+            border: 5px solid #008080;
+            padding: 20px;
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div id="homescreen" class="section">
+        <h1>Welcome to HomeScreen</h1>
+        <p>Explore different sites from here:</p>
+        <ul>
+            <li><a href="https://www.google.com" target="_blank">Google</a></li>
+            <li><a href="https://www.openai.com" target="_blank">OpenAI</a></li>
+            <li><a href="http:/10.0.0.32" target="_blank">10.0.0.32</a></li>
+        </ul>
+    </div>
+    
+    <div id="personal" class="section">
+        <h1>Personal</h1>
+    </div>
+    
+    <div id="work" class="section">
+        <h1>Work</h1>
+        <button onclick="window.open('https://drive.google.com/drive/folders/18dKSjmV_ytnj2O6cc8XOfFppWOwRwLST?usp=drive_linkd', '_blank')">Open Google Drive Folder</button>
+    </div>
+</body>
+</html>
+"""
+
+# Wait for connect or fail
+max_wait = 10
+while max_wait > 0:
+    if wlan.status() < 0 or wlan.status() >= 3:
+        break
+    max_wait -= 1
+    print('waiting for connection...')
+    time.sleep(1)
+    
+# Handle connection error
+if wlan.status() != 3:
+    raise RuntimeError('network connection failed')
+else:
+    print('Connected')
+    status = wlan.ifconfig()
+    print( 'ip = ' + status[0] )
+    
+    # Synchronize the RTC
+    ntptime.settime()
+    
+    
+# Open socket
+addr = socket.getaddrinfo('0.0.0.0', 80)[0][-1]
+s = socket.socket()
+s.bind(addr)
+s.listen(1)
+print('listening on', addr)
+
+# Listen for connections, serve client
+while True:
+    try:       
+        cl, addr = s.accept()
+        print('client connected from', addr)
+        request = cl.recv(512)  # Reduced buffer size
+        print("request:")
+        print(request)
+        request = str(request)
+        
+        # Create and send response
+        cl.send('HTTP/1.0 200 OK\r\nContent-type: text/html\r\n\r\n')
+        cl.send(html)
+        cl.close()
+        
+    except OSError as e:
+        cl.close()
+        print('connection closed')
+
