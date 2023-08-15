@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "adelheid-rescue")(type "Legacy")(uri "${KIPRJMOD}/adelheid-rescue.lib")(options "")(descr ""))
+  (lib (name "ai03-schematic_library")(type "Legacy")(uri "${KIPRJMOD}/lib/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "adelheid")(type "KiCad")(uri "${KIPRJMOD}/lib/adelheid.pretty")(options "")(descr ""))
+  (lib (name "ai03-MX_only")(type "KiCad")(uri "${KIPRJMOD}/lib/MX_Only.pretty")(options "")(descr ""))
+)
