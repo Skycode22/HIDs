@@ -180,7 +180,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "keyboard.kicad_pro",
+    "filename": "keyjoy.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -2109,7 +2109,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "keyjoy.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
