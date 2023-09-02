@@ -14,6 +14,11 @@
         "rows": ["GP0", "GP1", "GP2", "GP3", "GP4"],
         "cols": ["GP5", "GP6", "GP7", "GP8", "GP9", "GP10", "GP11", "GP12", "GP13", "GP14", "GP15", "GP16", "GP17", "GP18", "GP19"]
     },
+    "encoder": {
+      "rotary": [
+        { "pin_a": "GP21", "pin_b": "GP22", "resolution": 4 }
+      ]
+    },
     "diode_direction": "COL2ROW",
     "features": {
         "bootmagic": true,
@@ -26,7 +31,8 @@
         "rgblight": false,
         "audio": false,
         "key_lock": false,
-        "pointing_device": true
+        "pointing_device": true,
+        "encoder": true
     },
     "layouts": {
         "LAYOUT": {

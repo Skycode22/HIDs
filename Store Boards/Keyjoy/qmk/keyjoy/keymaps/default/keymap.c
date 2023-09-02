@@ -35,3 +35,12 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         KC_LCTL, KC_LGUI, KC_LALT, KC_SPC,  KC_SPC,  KC_SPC,  KC_SPC,  KC_SPC
     )
 };
+bool encoder_update_user(uint8_t index, bool clockwise) {
+    if (clockwise) {
+tap_code(KC_VOLU);
+} 
+    else { 
+tap_code(KC_VOLD); 
+} 
+return false; 
+}
