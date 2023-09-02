@@ -74,4 +74,4 @@ Feel free to message me with any questions or if you have any suggestions to mak
 <img src="https://github.com/Skycode22/HIDs/blob/main/HID%20repo%20front%20page%20pictures/Mothra.png" alt="Mothra" />
 
 ### C64.pi
-<img src="https://github.com/Skycode22/HIDs/blob/main/C64.pi/pictures/fusion360%20home%20view.png" alt="C64.pi" />
+<img src="https://github.com/Skycode22/HIDs/tree/main/keyboards%20in%20progress/C64.pi/pictures/fusion360%20home%20view.png" alt="C64.pi" />
