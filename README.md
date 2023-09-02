@@ -10,6 +10,19 @@ Feel free to message me with any questions or if you have any suggestions to mak
 
 ## Notable Projects Currently:
 
+### Keyjoy
+<table>
+<tr>
+<td>
+<img src="https://github.com/Skycode22/HIDs/blob/main/Store%20Boards/Keyjoy/pics/kicad%20pcb.png" alt="MY75" />
+</td>
+<td>
+<img src="https://github.com/Skycode22/HIDs/blob/main/Store%20Boards/Keyjoy/pics/fusion360%20full.png" alt="MY75 Shell" />
+</td>
+</tr>
+</table>
+
+
 ### MY75
 <table>
 <tr>
