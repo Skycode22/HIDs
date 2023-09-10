@@ -7,3 +7,4 @@
 #define JOYSTICK_BUTTON_COUNT 0
 // Max 6: X, Y, Z, Rx, Ry, Rz
 #define JOYSTICK_AXIS_COUNT 2
+
