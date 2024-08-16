@@ -4,14 +4,7 @@
     "active_layer_preset": "All Layers",
     "auto_track_width": true,
     "hidden_netclasses": [],
-    "hidden_nets": [
-      "Net-(BT1--)",
-      "Net-(BT1-+)",
-      "Net-(D1-A)",
-      "Net-(R1-Pad2)",
-      "Net-(BatteryChargeModule1-+)",
-      "Net-(BatteryChargeModule1--)"
-    ],
+    "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
@@ -81,7 +74,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "LED2.kicad_prl",
+    "filename": "LED2 full perf board.kicad_prl",
     "version": 3
   },
   "project": {
