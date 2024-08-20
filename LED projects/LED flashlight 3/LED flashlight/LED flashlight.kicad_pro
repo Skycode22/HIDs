@@ -469,7 +469,7 @@
       "plot": "gerber/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../3D/LED flashlight.step",
       "svg": "",
       "vrml": ""
     },
