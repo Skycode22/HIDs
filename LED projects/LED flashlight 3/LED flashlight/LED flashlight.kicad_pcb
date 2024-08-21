@@ -4715,14 +4715,6 @@
 		(net 8)
 		(uuid "fe0bc596-107a-4569-a24e-c8d03394af67")
 	)
-	(via
-		(at 129.725 95.47)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 9)
-		(uuid "122bcfd9-8115-4420-b17a-79b925eef818")
-	)
 	(segment
 		(start 129.167221 95.859014)
 		(end 124.987221 95.859014)
